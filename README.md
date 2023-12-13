@@ -1,43 +1,47 @@
-# Coding_Solutions
-This repository contains solution of my journey in multiple online coding judge.
 # Coding Judge Solutions
 
-This repository contains my solutions to various coding problems from different online judges. Below is a list of 15 online coding judges along with links to my GitHub repositories containing solutions to problems from each judge.
+This repository contains my solutions to coding problems from various online judges. Below is a list of 12 online coding judges along with links to the corresponding GitHub repositories containing my solutions.
 
 1. **HackerRank**
-   - https://github.com/Seyamalam/Hackerrank
+   - [HackerRank Solutions](https://github.com/Seyamalam/Hackerrank)
 
 2. **CodeSignal**
-   - https://github.com/your-username/codesignal-solutions
+   - [CodeSignal Solutions](https://github.com/Seyamalam/Codesignal)
 
 3. **LeetCode**
-   - (https://github.com/your-username/leetcode-solutions)
+   - [LeetCode Solutions](https://github.com/Seyamalam/Leetcode)
 
 4. **Codeforces**
-   - (https://github.com/your-username/codeforces-solutions)
+   - [Codeforces Solutions](https://github.com/Seyamalam/Codeforces)
 
 5. **Beecrowd**
-   - (https://github.com/Seyamalam/Beecrowd)
+   - [Beecrowd Solutions](https://github.com/Seyamalam/Beecrowd)
 
 6. **DMOJ**
-   - (https://github.com/your-username/codewars-solutions)
+   - [DMOJ Solutions](https://github.com/Seyamalam/DMOJ)
 
 7. **SPOJ (Sphere Online Judge)**
-   - (https://github.com/your-username/spoj-solutions)
+   - [SPOJ Solutions](https://github.com/Seyamalam/SPOJ)
 
 8. **Codechef**
-   - (https://github.com/Seyamalam/Codechef)
+   - [Codechef Solutions](https://github.com/Seyamalam/Codechef)
 
 9. **CodingBlock**
-   - [AtCoder Solutions](https://github.com/your-username/atcoder-solutions)
+   - [CodingBlock Solutions](https://github.com/Seyamalam/Coding-Block)
 
 10. **TOPH**
-    - [UVa Online Judge Solutions](https://github.com/your-username/uva-online-judge-solutions)
+    - [TOPH Solutions](https://github.com/Seyamalam/TOPH)
 
 11. **HackerEarth**
-    - [HackerEarth Solutions](https://github.com/your-username/hackerearth-solutions)
-   
+    - [HackerEarth Solutions](https://github.com/Seyamalam/Hackerearth)
+
 12. **Outsbook**
-    - [HackerEarth Solutions](https://github.com/your-username/hackerearth-solutions)
+    - [Outsbook Solutions](https://github.com/Seyamalam/C-Prac)
 
 Feel free to explore the individual repositories to view and learn from the solutions to various coding problems on these platforms.
+
+## Disclaimer
+These solutions are part of my learning journey, and they may not represent optimal solutions. Some solutions might be incorrect or incomplete, as I continually strive to improve my coding skills. Use them as a reference and feel free to contribute or suggest improvements.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
