@@ -5,10 +5,10 @@ This repository contains solution of my journey in multiple online coding judge.
 This repository contains my solutions to various coding problems from different online judges. Below is a list of 15 online coding judges along with links to my GitHub repositories containing solutions to problems from each judge.
 
 1. **HackerRank**
-   - (https://github.com/Seyamalam/Hackerrank)
+   - https://github.com/Seyamalam/Hackerrank
 
 2. **CodeSignal**
-   - (https://github.com/your-username/codesignal-solutions)
+   - https://github.com/your-username/codesignal-solutions
 
 3. **LeetCode**
    - (https://github.com/your-username/leetcode-solutions)
